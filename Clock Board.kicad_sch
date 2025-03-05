@@ -7035,7 +7035,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Devices:LED")
-		(at 215.9 80.01 0)
+		(at 215.9 80.01 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7043,14 +7043,6 @@
 		(dnp no)
 		(uuid "59fd11aa-f841-40a9-a6bc-f48aa19e7ee5")
 		(property "Reference" "D3"
-			(at 215.646 76.962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
 			(at 216.154 83.058 0)
 			(effects
 				(font
@@ -7058,8 +7050,16 @@
 				)
 			)
 		)
+		(property "Value" "LED"
+			(at 215.646 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 214.884 82.804 0)
+			(at 216.916 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7068,7 +7068,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 80.01 0)
+			(at 217.17 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7172,7 +7172,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Devices:LED")
-		(at 139.7 78.74 0)
+		(at 139.7 78.74 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7180,7 +7180,7 @@
 		(dnp no)
 		(uuid "5f5ade72-1293-47b9-aca5-42cf73ca76a5")
 		(property "Reference" "D2"
-			(at 139.446 75.692 0)
+			(at 139.954 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7188,7 +7188,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 139.954 81.534 0)
+			(at 139.446 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7196,7 +7196,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 138.684 81.534 0)
+			(at 140.716 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7205,7 +7205,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 78.74 0)
+			(at 140.97 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
